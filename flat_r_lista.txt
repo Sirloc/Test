@@ -1,0 +1,6 @@
+r2.fit
+r3.fit
+r4.fit
+r5.fit
+r6.fit
+r7.fit

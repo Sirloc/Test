@@ -1,0 +1,5 @@
+alpind_g1.fit
+alpind_g2.fit
+alpind_g3.fit
+alpind_g4.fit
+alpind_g5.fit

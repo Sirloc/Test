@@ -1,0 +1,3 @@
+alpind_b1.fit
+alpind_b2.fit
+alpind_b3.fit
