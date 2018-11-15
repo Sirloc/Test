@@ -1,4 +1,4 @@
-image,f,a,"alpind_b2.fit",,,"image to be displayed"
+image,f,a,"std_b1.fit",,,"image to be displayed"
 frame,i,a,1,1,16,"frame to be written into"
 bpmask,f,h,"BPM",,,"bad pixel mask"
 bpdisplay,s,h,"none",none|overlay|interpolate,,"bad pixel display (none|overlay|interpolate)"
